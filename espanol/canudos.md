@@ -195,4 +195,4 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
-[Pero antes de terminar, quiso ir al doctor a una revisión al doctor](revision/revison.md)
+[Pero antes de terminar, quiso ir al doctor a una revisión al doctor](revision/revision.md)
